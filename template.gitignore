@@ -1,0 +1,2 @@
+# Ignore lockfile as resolution is done by consumer
+pubspec.lock

@@ -74,6 +74,9 @@ pitchfork.local.toml
 #! Fnox
 fnox.local.toml
 
+# Ignore lockfile as resolution is done by consumer
+pubspec.lock
+
 #! Dart & Flutter
 # Miscellaneous
 .buildlog/
@@ -181,6 +184,12 @@ app.*.map.json
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
 
+# Ignore lockfile as resolution is done by consumer
+pubspec.lock
+
 #! Caches
 .lycheecache
 .rumdl_cache
+
+# Ignore lockfile as resolution is done by consumer
+pubspec.lock
