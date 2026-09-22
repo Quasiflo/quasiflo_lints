@@ -2,5 +2,10 @@
 name: quasiflo_lints
 description: "The very pedantic linting standard used by Quasiflo"
 version: 0.1.0
+maintainer: Luke Aguilar (@Attempt3035)
+repository: https://github.com/Quasiflo/quasiflo_lints
+homepage: https://github.com/Quasiflo/quasiflo_lints
+issue_tracker: https://github.com/Quasiflo/quasiflo_lints/issues
+
 environment:
   sdk: ">=3.13.0"
