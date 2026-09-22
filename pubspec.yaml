@@ -8,4 +8,4 @@ homepage: https://github.com/Quasiflo/quasiflo_lints
 issue_tracker: https://github.com/Quasiflo/quasiflo_lints/issues
 
 environment:
-  sdk: ">=3.13.0"
+  sdk: ^3.13.0
