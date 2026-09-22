@@ -1,0 +1,6 @@
+---
+name: quasiflo_lints
+description: "The very pedantic linting standard used by Quasiflo"
+version: 0.1.0
+environment:
+  sdk: ">=3.13.0"
