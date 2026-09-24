@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/Quasiflo/quasiflo_lints/compare/v0.1.0...v0.1.1) (2026-09-24)
+
+
+### Bug Fixes
+
+* remove line wrapping & ignore *.g.dart files ([c54ef89](https://github.com/Quasiflo/quasiflo_lints/commit/c54ef89affd261f90d18912ace36caa04cccaa0d))
+
 ## 0.1.0 (2026-09-22)
 
 
