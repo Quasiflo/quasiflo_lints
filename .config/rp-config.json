@@ -5,7 +5,13 @@
       "bump-minor-pre-major": true,
       "extra-label": "Bot 🤖",
       "include-component-in-tag": false,
-      "release-type": "dart"
+      "release-type": "dart",
+      "extra-files": [
+        {
+          "type": "generic",
+          "path": "README.md"
+        }
+      ]
     }
   }
 }

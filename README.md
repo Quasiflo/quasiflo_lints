@@ -10,7 +10,7 @@ Install the package by adding the following to your `pubspec.yaml`
 
 ```yaml
 dev_dependencies:
-  quasiflo_lints: ^0.1.0
+  quasiflo_lints: ^0.1.1
 ```
 
 <!-- x-release-please-end -->
