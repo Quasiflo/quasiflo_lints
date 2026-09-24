@@ -1,7 +1,10 @@
 ---
 # Additional information about this file can be found at https://dart.dev/tools/analysis
+formatter:
+  page_width: 999 # Don't manually wrap lines
 analyzer:
   exclude:
+    - "**/*.g.dart"
     - "**/*.gr.dart"
     - "**/*.freezed.dart"
     - "**/frb_generated*.dart"
