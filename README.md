@@ -10,12 +10,18 @@ Install the package by adding the following to your `pubspec.yaml`
 
 ```yaml
 dev_dependencies:
-  quasiflo_lints: 0.1.0
+  quasiflo_lints: ^0.1.0
 ```
 
 <!-- x-release-please-end -->
 
-Include the lints by putting `include: package:quasiflo_lints/lints.yaml` in your `analysis_options.yaml`. You can still override lints as desired.
+Include the lints by putting `include: package:quasiflo_lints/lints.yaml` in your `analysis_options.yaml`. You can still override lints as desired. Something like the following is recommended:
+
+```yaml
+# Additional information about this file can be found at https://dart.dev/tools/analysis
+#* This package uses Quasiflo's standard linting rules, found at https://github.com/Quasiflo/quasiflo_lints
+include: package:quasiflo_lints/lints.yaml
+```
 
 ## License
 
